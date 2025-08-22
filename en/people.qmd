@@ -1,0 +1,34 @@
+---
+title: "People"
+format: html
+---
+
+## Principal Investigator
+
+### Dr. Teofil Nakov
+**Aquatic Evolutionary Biologist**
+
+[Escuela de Biología](https://biologia.ucr.ac.cr/){target="_blank"}  
+[Centro de Investigación en Ciencias del Mar y Limología (CIMAR)](https://cimar.ucr.ac.cr/){target="_blank"}  
+[Universidad de Costa Rica](https://www.ucr.ac.cr/){target="_blank"}  
+11501-2060 San Pedro de Montes de Oca, San José, Costa Rica
+
+**Email:** [teofiln@gmail.com](mailto:teofiln@gmail.com)  
+
+**Education:**  
+- Ph.D. Plant Biology, Section of Integrative Biology, The University of Texas at Austin (2014)  
+- B.S. Biochemistry, Institute of Biology, Ss Cyril and Methodius University, Skopje, Macedonia (2005)  
+
+**Professional Experience:**  
+- 2020-2025: Independent Consultant, Data Science, Bioinformatics, Software Development  
+- 2014-2020: Postdoctoral Researcher, Alverson Lab, University of Arkansas, Fayetteville  
+
+---
+
+## Lab Members
+
+Get in touch through email if you are interested to work in my lab!
+
+<!-- ## Alumni
+
+*Information about former lab members will be added here.* -->

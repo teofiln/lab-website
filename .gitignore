@@ -1,0 +1,20 @@
+# Quarto build outputs
+/.quarto/
+*_files/
+*_cache/
+*.html
+
+# Keep only the main docs folder for GitHub Pages
+/docs/
+
+# Backup files
+*.backup
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~

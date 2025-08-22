@@ -1,0 +1,12 @@
+---
+title: "Noticias"
+format: html
+---
+
+## Agosto 2025
+
+**Lanzamiento del Sitio Web del Laboratorio** - *20 de agosto, 2025*
+
+¡Nos complace anunciar que nuestro laboratorio está ahora oficialmente activo! Nuestro nuevo sitio web está en línea y proporciona información sobre nuestro equipo de investigación, publicaciones recientes y proyectos en curso. Mantente atento para más actualizaciones mientras continuamos creciendo y compartiendo nuestro trabajo con la comunidad.
+
+---

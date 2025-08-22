@@ -1,0 +1,20 @@
+---
+title: "About"
+format: html
+---
+
+# About
+
+## Our Lab
+
+Information about the lab, research focus, and contact details.
+
+## Location
+
+Our laboratory is located in Costa Rica, a country renowned for its biodiversity and natural beauty. The inspiring landscape, including places like Lake Arenal shown below, provides a perfect backdrop for our scientific research and collaboration.
+
+![Lake Arenal - Our inspiring Costa Rican landscape](img/lake-arenal.jpg){fig-align="center" width="70%"}
+
+## Contact
+
+*Add contact information here*

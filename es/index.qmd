@@ -1,0 +1,46 @@
+---
+title: "Bienvenido al Laboratorio de Biodiversidad y Evolución Acuática"
+format: html
+---
+
+## Biodiversidad acuática
+
+::: {.grid}
+
+::: {.g-col-6}
+Nuestro laboratorio se centra en documentar y comprender la diversidad de organismos acuáticos, con un énfasis principal en las diatomeas de agua dulce. Nos interesa particularmente avanzar hacia una flora de diatomeas de Costa Rica, integrando colectas de campo, estudios morfológicos y herramientas moleculares para describir la riqueza de especies en los ecosistemas acuáticos tropicales. Al documentar esta biodiversidad, buscamos llenar vacíos críticos de conocimiento en una región que sigue estando poco explorada en comparación con los sistemas templados.
+:::
+
+::: {.g-col-6 style="display: flex; align-items: center; justify-content: center;"}
+![](img/kutzing.png){fig-align="center" width="100%"}
+:::
+
+:::
+
+## Evolución y diversificación de diatomeas
+
+::: {.grid}
+
+::: {.g-col-6}
+Investigamos la historia evolutiva de las diatomeas aplicando métodos comparativos filogenéticos a filogenias moleculares de gran escala. Nuestra investigación explora cómo los rasgos ecológicos, las innovaciones morfológicas y los cambios ambientales han moldeado la diversificación de las diatomeas a lo largo del tiempo. Al vincular los patrones macroevolutivos con los procesos ecológicos, buscamos comprender los factores que impulsan la diversificación y adaptación de uno de los grupos de microorganismos acuáticos más diversos en especies.
+:::
+
+::: {.g-col-6 style="display: flex; align-items: center; justify-content: center;"}
+![](img/swarms.png){fig-align="center" width="100%"}
+:::
+
+:::
+
+## Limnología
+
+::: {.grid}
+
+::: {.g-col-6}
+Utilizamos a las diatomeas como potentes bioindicadores para evaluar la calidad del agua en lagos y embalses, con un enfoque particular en aguas continentales tropicales. Nuestro trabajo integra enfoques limnológicos clásicos con el monitoreo basado en diatomeas para detectar cambios ecológicos, enriquecimiento de nutrientes y otros factores de estrés que amenazan a los ecosistemas de agua dulce. A través del monitoreo a largo plazo y la bioevaluación aplicada, buscamos generar herramientas que apoyen tanto los esfuerzos de conservación como la gestión de los recursos hídricos en Costa Rica y más allá.
+:::
+
+::: {.g-col-6 style="display: flex; align-items: center; justify-content: center;"}
+![](img/arenal.jpg){fig-align="center" width="100%"}
+:::
+
+:::

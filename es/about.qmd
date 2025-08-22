@@ -1,0 +1,20 @@
+---
+title: "Acerca del Laboratorio"
+format: html
+---
+
+# Acerca del Laboratorio
+
+## Nuestro Laboratorio
+
+Información sobre el laboratorio, enfoque de investigación y detalles de contacto.
+
+## Ubicación
+
+Nuestro laboratorio está ubicado en Costa Rica, un país reconocido por su biodiversidad y belleza natural. El paisaje inspirador, incluyendo lugares como el Lago Arenal que se muestra a continuación, proporciona un telón de fondo perfecto para nuestra investigación científica y colaboración.
+
+![Lago Arenal - Nuestro inspirador paisaje costarricense](img/lake-arenal.jpg){fig-align="center" width="70%"}
+
+## Contacto
+
+*Agregar información de contacto aquí*

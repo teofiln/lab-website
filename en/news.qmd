@@ -1,0 +1,13 @@
+---
+title: "News"
+format: html
+---
+
+## August 2025
+
+**Lab Website Launched** - *August 20, 2025*
+
+We are excited to announce that our lab is now officially active! Our new website is live and provides information about our research team, recent publications, and ongoing projects. Stay tuned for more updates as we continue to grow and share our work with the community.
+
+---
+

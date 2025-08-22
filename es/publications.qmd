@@ -1,0 +1,136 @@
+---
+title: "Publicaciones"
+format: 
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+*\* contribución igual, § coautor de pregrado*  
+*Resumen breve para artículos seleccionados está en negrita debajo de la referencia*
+
+## Recientes
+
+#### 2025
+
+- Alverson AJ, Roberts WR, Ruck EC, **Nakov T**, Ashworth MP, Bryłka K, Downey KM, Kociolek JP, Parks M, Pinseel E. Phylogenomics reveals the slow-burning fuse of diatom evolution. *Proceedings of the National Academy of Sciences* 122(22): e2500153122, 2025.
+
+- Pinseel E, Ruck EC, **Nakov T**, Jonsson PR, Kourtchenko O, Kremp A, Pinder MIM, Roberts WR, Sjöqvist C, Töpel M. Genome‐Wide Adaptation to a Complex Environmental Gradient in a Keystone Phytoplankton Species. *Molecular Ecology*, e17817, 2025.
+
+#### 2023
+
+- Pinseel E, Ruck EC, **Nakov T**, Jonsson PR, Kourtchenko O, Kremp A, et. al Local adaptation of a marine diatom is governed by genome-wide changes in diverse metabolic processes. *bioRxiv, 2023.09. 22.559080*
+
+#### 2022
+
+- Pinseel E, **Nakov T**, Van den Berge K, Downey KM, Judy KJ, Kourtchenko O, Kremp A, Ruck EC, Sjöqvist C, Töpel M et al. Strain-specific transcriptional responses overshadow salinity effects in a marine diatom sampled along the Baltic Sea salinity cline. *The ISME Journal 16: 1776-1787*
+
+#### 2021
+
+- Alverson AJ, Chafin TK, Jones KA, Manoylov KM, Johnson H, Julius ML, **Nakov T**, Ruck EC, Therior EC, et al. Microbial biogeography through the lens of exotic species: the recent introduction and spread of the freshwater diatom *Discostella asterocostata* in the United States. *Biological Invasions, 23: 2191-2204*
+
+- Hamlin JAP, **Nakov T**, Williams-Newkirk A. `tinselR`--an `R Shiny` Application for Annotating Phylogenetic Trees. *Microbiology Resource Announcements 10, e00227-21*
+
+#### 2020
+
+- **Nakov T**, Judy KJ, Downey KM, Ruck EC and Alverson AJ. Transcriptional response of osmolyte synthetic pathways and membrane transporters in a euryhaline diatom during long-term acclimation to a salinity gradient. *Journal of Phycology 56: 1712-1728*
+
+- Ozersky T, **Nakov T**, Hampton S, Rodenhouse NL, Shchapov K, Woo KH, ... and Timofeev MA. Hot and sick: Impacts of warming and oomycete parasite infection on endemic dominant zooplankter of Lake Baikal. *Limnology and Oceanography 65: 2772-2786*
+
+#### 2019
+
+- **Nakov T**, Beaulieu JM, and Alverson, AJ. Diatoms diversify and turn over faster in freshwater than marine environments. *Evolution, 73: 2497-2511.*
+
+> **Muchos clados que abarcan la división marino-agua dulce son desproporcionalmente más diversos en los ambientes de agua dulce más jóvenes y de corta duración que en el reino marino, que cubre la mayor parte de la biosfera. Cómo se han formado estos patrones es una pregunta abierta. Utilizando un conjunto novedoso de modelos de diversificación que controlan los efectos de factores que interactúan y variables no observadas, mostramos que las diatomeas de agua dulce tanto se especian como se extinguen más rápido que los clados marinos.**
+
+- Onyshchenko A, Ruck EC, **Nakov T**, and Alverson AJ. A single loss of photosynthesis in diatoms. *American Journal of Botany, 106: 560– 572.*
+
+#### 2018
+
+- **Nakov T**, Beaulieu JM and Alverson AJ. Insights into global planktonic diatom diversity: The importance of comparisons between phylogenetically equivalent units that account for time. *International Society of Microbial Ecology Journal (ISME-J), 2018 Jul 16:1*
+
+> **El metabarcoding ofrece conocimientos sin precedentes sobre la diversidad microbiana, sin embargo, la mayoría de los análisis asumen que los rangos taxonómicos son biológicamente significativos y que los grupos con rangos idénticos son comparables. En este estudio, usando un conjunto de datos de metabarcoding de diatomeas de Tara Oceans, ilustramos las limitaciones de este enfoque y las ventajas de usar un marco filogenético para hacer inferencias sobre ecología microbiana, diversidad y biogeografía.**
+
+- Guillori WX, Onyschenko A, Ruck EC, Parks M, **Nakov T**, Wickett N and Alverson AJ. Recurrent loss, horizontal transfer, and the obscure origins of mitochondrial introns in diatoms (Bacillariophyta). *Genome Biology and Evolution, 10: 1504--1515*
+
+- Parks M*, **Nakov T***, Ruck EC, Wickett NJ and Alverson AJ. Phylogenomics reveals an extensive history of genome duplication in diatoms (Bacillariophyta). *American Journal of Botany, 105: 330--347*
+
+> **El primer estudio filogenómico para evaluar la poliploidía en diatomeas. Nuestros resultados, basados en una variedad de métodos para detectar duplicaciones de genoma completo (WGD), sugieren que WGD ha jugado un papel importante en la evolución de los genomas de diatomeas. Delineamos desafíos en la reconstrucción de eventos paleopoliploides en diatomeas que, junto con estos resultados, ofrecen un marco para entender el impacto de la duplicación del genoma en un grupo que alberga diversidad genómica sustancial.**
+
+- **Nakov T**, Beaulieu JM and Alverson AJ. Accelerated diversification is related to life history and locomotion in a hyperdiverse lineage of microbial eukaryotes (Diatoms, Bacillariophyta). *New Phytologist, 219: 462--473*
+
+> **Construimos y calibramos temporalmente la filogenia de diatomeas más grande hasta la fecha y la usamos para estimar, por primera vez, las tasas de diversificación a través de linajes y tiempo. Encontramos que un clado con células vegetativas capaces de movimiento activo se diversificó mucho más rápido que otras diatomeas. Propusimos que la evolución de la motilidad facilitó el entrecruzamiento y mejoró la utilización de la complejidad del hábitat, llevando finalmente a una mayor oportunidad para la divergencia adaptativa y diversificación acelerada.**
+
+- Mejdandžić M, Bosak S, **Nakov T**, Ruck EC, Orlić S, Gligora Udovič M, Peharec Štefanić P, Špoljarić I, Mršić G and Z Ljubešić. Phylogenetic and taxonomic diversity of the canal–raphe diatom genus *Entomoneis* (Bacillariophyta) in marine plankton: six new species from the Adriatic Sea. *Journal of Phycology, 54: 275--298*
+
+## Anteriores
+
+#### 2017
+
+- **Nakov T**, Boyko JD, Alverson AJ and Beaulieu JM. Models with unequal transition rates favor marine origins for cyanobacteria and photosynthetic eukaryotes. *Proceedings of the National Academy of Sciences USA, 114: 13055--13056.*
+
+- Ruck EC, Linard SR, **Nakov T**, Theriot EC and Alverson AJ. Hoarding and horizontal transfer led to an expanded gene and intron repertoire in the plastid genome of the diatom *Toxarium undulatum* (Bacillariophyta). *Current Genetics 63: 499--507.*
+
+- Chust G, Vogt M, Benedetti F, **Nakov T**, Villéger S, Aubert A, Vallina SM, Righetti D, Not F, Biard T, Bittner L, ..., Ayata S-D. Mare incognitum: A glimpse into future plankton diversity and ecology research. *Frontiers in Marine Science 4 (122)*.
+
+#### 2016
+
+- Ruck EC and **Nakov T**. Nomenclatural transfers associated with the phylogenetic reclassification of the Surirellales and Rhopalodiales. *Notulae algarum 1--4*.
+
+- Ruck EC*, **Nakov T***, Alverson AJ and Theriot EC. Phylogeny, ecology, morphological evolution, and reclassification of the diatom orders Surirellales and Rhpalodiales. *Molecular Phylogenetics and Evolution 103: 155--171.*
+
+#### 2015
+
+- **Nakov T**, Guillory WX§, Julius ML, Theriot EC and Alverson AJ. Towards a phylogenetic classification of species belonging to the diatom genus *Cyclotella* (Bacillariophycae): Transfer of species formerly placed in *Puncticulata*, *Handmannia*, *Pliocaenicus* and *Cyclotella* to the genus *Lindavia*. *Phytotaxa 217: 249--264*.
+
+- Theriot EC, Ashworth MP, **Nakov T**, Ruck EC and Jansen RK. Dissecting signal and noise in diatom chloroplast protein encoding genes with phylogenetic information profiling. *Molecular Phylogenetics and Evolution 89: 28--36*.
+
+#### 2014
+
+- **Nakov T***, Ashworth MP* and Theriot EC. Comparative analysis of the interaction between habitat and growth form in diatoms. *International Society of Microbial Ecology Journal (ISME-J) 9: 246--255*.
+
+- **Nakov T**, Ruck EC, Galachyants Y, Spaulding SA and Theriot EC. Molecular phylogeny of the Cymbellales (Bacillariophyceae) with a comparison of models for accommodating rate-variation across sites. *Phycologia 53: 359--373*.
+
+- Ruck EC, **Nakov T**, Jansen RK, Theriot EC and Alverson AJ. Serial gene losses and foreign DNA underlie size and sequence variation in the plastid genomes of diatoms. *Genome Biology and Evolution 6: 644--654*.
+
+- Jovanovska E§, Buczkó K, **Nakov T** and Levkov Z. *Diploneis transylvanica* (Bacillariophyceae), a new diatom species from a Neogene fossil deposit in Romania. *Nova Hedwigia 98: 3--4*.
+
+#### 2013
+
+- **Nakov T**, Theriot EC and Alverson AJ. Using phylogeny to model the evolution of cell size in marine and freshwater diatoms. *Limnology and Oceanography 59: 79--86*.
+
+> **Virtualmente cualquier característica ecológica y fisiológica del fitoplancton está relacionada con el tamaño celular, por lo que la evolución del tamaño celular es central para la biología del fitoplancton. Aquí, por primera vez, investigamos la evolución del tamaño celular del fitoplancton en un marco filogenético revelando una divergencia adaptativa entre linajes marinos y de agua dulce relacionada con diferencias en los regímenes de nutrientes y tasas de hundimiento entre hábitats con diferentes salinidades.**
+
+- Ashworth MP, **Nakov T** and Theriot EC. Revisiting Ross and Sims (1971): Towards a molecular phylogeny of the Biddulphiaceae and Eupodiscaceae (Bacillariophyceae). *Journal of Phycology 6: 1207--1222*.
+
+- Jovanovska E§, Buczkó K, Ognjanova-Rumenova N, **Nakov T** and Levkov Z. Identity and typification of *Diploneis ostracodarum*, *Diploneis budayana*, and *Diploneis praeclara* (Bacillariophyta). *Phytotaxa 137: 15--26*.
+
+- Jovanovska E§, **Nakov T** and Levkov Z. Observations of the genus *Diploneis* (Ehrenberg) Cleve from Lake Ohrid, Macedonia. *Diatom Research 28: 237--262*.
+
+#### 2010
+
+- Theriot EC, Ashworth MP, Ruck EC, **Nakov T** and Jansen RK. A preliminary multigene phylogeny of the diatoms (Bacillariophyta): challenges for future research. *Plant Ecology and Evolution 143: 278--296*.
+
+#### 2009
+
+- Pavlov A§, **Nakov T**, Levkov Z, Furey P, Lowe R and Ector L. *Luticola grupcei* (Bacillariophyceae)--a new freshwater diatom from Mountain Baba (Macedonia) and Great Smoky Mountains National Park (USA): comparison with the type material of *L. goeppertiana* (Bleisch) D.G. Mann. *Nova Hedwigia 89: 147--164*.
+
+#### 2008
+
+- Levkov Z and **Nakov T**. *Rhoicosphenia tenuis*, a new diatom species from Lake Ohrid. *Diatom Research 23: 377--388*.
+
+- Levkov Z, Edlund MB and **Nakov T**. Identity and typification of *Navicula hasta* (Bacillariophyceae). *Phycological Research 56: 46--57*.
+
+#### 2007
+
+- Levkov Z, Blanco S, Krstic S, **Nakov T** and Ector L. Ecology of benthic diatoms from Lake Macro Prespa (Macedonia). *Algological Studies 124: 71--83*.
+
+#### 2006
+
+- Edlund MB, Brant LA, Levkov Z, and **Nakov T**. An emended description of *Decussata* (Patrick) Lange-Bertalot and Metzeltin that includes protoplast organization and detailed valve and cingulum ultrastructure. *Diatom Research 21: 269--280*.
+
+#### 2005
+
+- Levkov Z, Krstic S, **Nakov T** and Melovski L. Diatom assemblages on Shara and Nidze mountains, Macedonia. *Nova Hedwigia 81: 501--538*.
+
+

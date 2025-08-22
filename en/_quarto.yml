@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: ../docs
+
+website:
+  title: "Aquatic Biodiversity & Evolution"
+  navbar:
+    background: primary
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "People"
+        href: people.qmd
+      - text: "Publications"  
+        href: publications.qmd
+      - text: "News"
+        href: news.qmd
+    tools:
+      - icon: translate
+        menu:
+          - text: English
+            href: ../
+          - text: Español
+            href: ../es/
+  page-footer:
+    left: "© 2025 Aquatic Biodiversity & Evolution"
+    right: |
+      <a href="https://www.ucr.ac.cr/" target="_blank"><img src="img/ucr.png" alt="Universidad de Costa Rica" style="height: 40px; margin-right: 15px; vertical-align: middle;"></a><a href="https://cimar.ucr.ac.cr/" target="_blank"><img src="img/cimar.jpg" alt="CIMAR" style="height: 60px; vertical-align: middle;"></a>
+  
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+lang: en

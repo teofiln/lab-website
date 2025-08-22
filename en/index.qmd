@@ -1,0 +1,46 @@
+---
+title: "Welcome to the Aquatic Biodiversity and Evolution Lab"
+format: html
+---
+
+## Aquatic biodiversity
+
+::: {.grid}
+
+::: {.g-col-6}
+Our lab focuses on documenting and understanding the diversity of aquatic organisms, with a primary emphasis on freshwater diatoms. We are particularly interested in building towards a comprehensive diatom flora of Costa Rica, integrating field collections, morphological studies, and molecular tools to describe the species richness of tropical aquatic ecosystems. By documenting this biodiversity, we aim to fill critical gaps in knowledge for a region that remains underexplored compared to temperate systems.
+:::
+
+::: {.g-col-6 style="display: flex; align-items: center; justify-content: center;"}
+![](img/kutzing.png){fig-align="center" width="100%"}
+:::
+
+:::
+
+## Diatom evolution & diversification
+
+::: {.grid}
+
+::: {.g-col-6}
+We investigate the evolutionary history of diatoms by applying phylogenetic comparative methods to large-scale molecular phylogenies. Our research explores how ecological traits, morphological innovations, and environmental changes have shaped diatom diversification over time. By linking macroevolutionary patterns with ecological processes, we seek to understand the drivers of lineage diversification and adaptation in one of the most species-rich groups of aquatic microorganisms.
+:::
+
+::: {.g-col-6 style="display: flex; align-items: center; justify-content: center;"}
+![](img/swarms.png){fig-align="center" width="100%"}
+:::
+
+:::
+
+## Limnology
+
+::: {.grid}
+
+::: {.g-col-6}
+We use diatoms as powerful bioindicators to assess water quality in lakes and reservoirs, with a particular focus on tropical inland waters. Our work integrates classical limnological approaches with diatom-based monitoring to detect ecological change, nutrient enrichment, and other stressors that threaten freshwater ecosystems. Through long-term monitoring and applied bioassessment, we aim to generate tools that support both conservation efforts and water resource management in Costa Rica.
+:::
+
+::: {.g-col-6 style="display: flex; align-items: center; justify-content: center;"}
+![](img/arenal.jpg){fig-align="center" width="100%"}
+:::
+
+:::
