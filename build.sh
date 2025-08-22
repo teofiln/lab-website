@@ -20,6 +20,9 @@ echo "Copying CSS files..."
 cp styles.css docs/
 cp styles.css docs/es/
 
+echo "Copying CNAME file for custom domain..."
+cp CNAME docs/ 2>/dev/null || true
+
 echo "Both versions built successfully!"
 echo "English site: docs/index.html"
 echo "Spanish site: docs/es/index.html"
