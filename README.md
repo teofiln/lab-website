@@ -68,19 +68,3 @@ cd es && quarto preview
 ## 🚀 Deployment
 
 The site automatically deploys to GitHub Pages via GitHub Actions when changes are pushed to the `main` branch.
-
-## 🎨 Features
-
-- **Bilingual Support**: Full English/Spanish versions
-- **Responsive Design**: Works on all devices
-- **Modern Typography**: Lato font throughout
-- **Institutional Branding**: UCR and CIMAR logos
-- **Clean Navigation**: Language switcher in navbar
-
-## 📝 License
-
-[Add your preferred license here]
-
-## 📧 Contact
-
-[Your contact information]
