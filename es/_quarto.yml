@@ -19,9 +19,9 @@ website:
       - icon: translate
         menu:
           - text: English
-            href: /lab-website/
+            href: https://teofiln.github.io/lab-website/
           - text: Español
-            href: /lab-website/es/
+            href: https://teofiln.github.io/lab-website/es/
   page-footer:
     left: "© 2025 Biodiversidad y Evolución Acuática"
     right: |
