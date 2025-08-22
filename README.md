@@ -4,8 +4,8 @@ A bilingual (English/Spanish) academic laboratory website built with [Quarto](ht
 
 ## 🌐 Live Site
 
-- **English**: [Your GitHub Pages URL]
-- **Spanish**: [Your GitHub Pages URL]/es/
+- **English**: <https://aquaticbiodiversitylab.org/>
+- **Spanish**: <https://aquaticbiodiversitylab.org/es/>
 
 ## 🏗️ Structure
 
