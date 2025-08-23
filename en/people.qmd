@@ -14,6 +14,7 @@ format: html
 11501-2060 San Pedro de Montes de Oca, San José, Costa Rica
 
 **Email:** [teofiln@gmail.com](mailto:teofiln@gmail.com)  
+**CV:** [Download CV](https://teofiln.github.io/md-cv/downloads.html){target="_blank"}  
 
 **Education:**  
 - Ph.D. Plant Biology, Section of Integrative Biology, The University of Texas at Austin (2014)  
