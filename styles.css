@@ -18,3 +18,10 @@ h6 {
 .navbar {
   font-family: "Lato", "Segoe UI", Arial, sans-serif;
 }
+
+/* Ensure mobile responsiveness for columns */
+@media (max-width: 767.98px) {
+  .row > [class*="col-"] {
+    margin-bottom: 1rem;
+  }
+}
